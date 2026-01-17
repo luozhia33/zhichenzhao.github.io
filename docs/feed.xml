@@ -1,0 +1,133 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Zhichen Zhao</title>
+  <subtitle></subtitle>
+  <updated>2026-01-17T11:29:13-08:00</updated>
+  <author>
+    <name>Zhichen Zhao</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2026 Zhichen Zhao </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Conference: IMS-ICSDS 2025</title>
+    <link href="http://localhost:4000/posts/ICSDS/" rel="alternate" type="text/html" title="Conference: IMS-ICSDS 2025" />
+    <published>2025-12-16T00:00:00-08:00</published>
+  
+    <updated>2025-12-16T00:00:00-08:00</updated>
+  
+    <id>http://localhost:4000/posts/ICSDS/</id>
+    <content type="text/html" src="http://localhost:4000/posts/ICSDS/" />
+    <author>
+      <name>Zhichen Zhao</name>
+    </author>
+
+  
+    
+  
+
+  <summary>I am glad to present a Talk entitled Deep Limit Model Free Prediction in Regression at the 2025 IMS International Conference on Statistics and Data Science, Seville, Spain.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Conference: NBER NSF Time Series 2025 </title>
+    <link href="http://localhost:4000/posts/NBERNSF/" rel="alternate" type="text/html" title="Conference: NBER NSF Time Series 2025 " />
+    <published>2025-09-19T00:00:00-07:00</published>
+  
+    <updated>2025-09-19T00:00:00-07:00</updated>
+  
+    <id>http://localhost:4000/posts/NBERNSF/</id>
+    <content type="text/html" src="http://localhost:4000/posts/NBERNSF/" />
+    <author>
+      <name>Zhichen Zhao</name>
+    </author>
+
+  
+    
+  
+
+  <summary>I am glad to present my Poster at workshop on NBER NSF Time Series Conference 2025 at Rutgers University. This poster is based on joint work with Professor Sayar Karmakar and Professor Rangan Gupta.  In addition, my Ph.D. advisor Professor Dimitris Politis gave an invited talk based on our Bootstrap prediction inference of nonlinea autoregressive models.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>My First Academia Job, Assistant Professor at Loyola University Chicago</title>
+    <link href="http://localhost:4000/posts/firstjob/" rel="alternate" type="text/html" title="My First Academia Job, Assistant Professor at Loyola University Chicago" />
+    <published>2025-08-11T00:00:00-07:00</published>
+  
+    <updated>2025-08-11T00:00:00-07:00</updated>
+  
+    <id>http://localhost:4000/posts/firstjob/</id>
+    <content type="text/html" src="http://localhost:4000/posts/firstjob/" />
+    <author>
+      <name>Zhichen Zhao</name>
+    </author>
+
+  
+    
+  
+
+  <summary>I am glad to join the Department of Mathematics and Statistics, Loyola University Chicago, as an Assistant Professor in Aug. 2025.    My Research Statement and Teaching Statement at that moment.  Hope I can keep moving forward!</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Paper Accepted: GARCHX-NoVaS: A Bootstrap-Based Approach of Forecasting for GARCHX Models</title>
+    <link href="http://localhost:4000/posts/JoF/" rel="alternate" type="text/html" title="Paper Accepted: GARCHX-NoVaS: A Bootstrap-Based Approach of Forecasting for GARCHX Models" />
+    <published>2025-05-13T00:00:00-07:00</published>
+  
+    <updated>2025-05-13T00:00:00-07:00</updated>
+  
+    <id>http://localhost:4000/posts/JoF/</id>
+    <content type="text/html" src="http://localhost:4000/posts/JoF/" />
+    <author>
+      <name>Zhichen Zhao</name>
+    </author>
+
+  
+    
+  
+
+  <summary>Abstract  In this work, we explore the forecasting ability of a recently proposed normalizing and variance-stabilizing (NoVaS) transforma-tion with the possible inclusion of exogenous variables in GARCH volatility specification. The NoVaS prediction method, whichis inspired by a model-free prediction principle, has generally shown more accurate, stable and robust (to misspecifications)performan...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Passed the Defense Talk of My Ph.D.</title>
+    <link href="http://localhost:4000/posts/PhdGot/" rel="alternate" type="text/html" title="Passed the Defense Talk of My Ph.D." />
+    <published>2025-04-17T00:00:00-07:00</published>
+  
+    <updated>2025-04-17T00:00:00-07:00</updated>
+  
+    <id>http://localhost:4000/posts/PhdGot/</id>
+    <content type="text/html" src="http://localhost:4000/posts/PhdGot/" />
+    <author>
+      <name>Zhichen Zhao</name>
+    </author>
+
+  
+    
+  
+
+  <summary>I am glad to pass my defense talk of my Ph.D. in Statistics at University of California San Diego.     Thanks to my parents.   Thanks to my advisor Dimitris Politis and my committee members Danna Zhang, Ery Arias-Castro and Yian Ma.   Thanks to all my friends.   Defense Talk Slides</summary>
+
+  </entry>
+
+</feed>
+
+
